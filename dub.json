@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Chris Josten"
+	],
+	"copyright": "Copyright © 2021, Chris Josten",
+	"dependencies": {
+		"blink1-d": "~>0.2.0"
+	},
+	"description": "Plugin to use Mumble with the Blink(1) LED",
+	"license": "GPLv3",
+	"name": "mumble-blink1",
+	"targetType": "dynamicLibrary"
+}

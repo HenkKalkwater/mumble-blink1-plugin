@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/mumble-blink1
+mumble-blink1.so
+mumble-blink1.dylib
+mumble-blink1.dll
+mumble-blink1.a
+mumble-blink1.lib
+mumble-blink1-test-*
+*.exe
+*.o
+*.obj
+*.lst
